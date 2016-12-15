@@ -1,4 +1,5 @@
-# CS209-Project
+# CS209-Project: The hot hand
+By Benny Ren, Ji Hua, and Rishi Singh
 
 The data files are in the data folder, including the raw data and cleaned data, as well as the scraped data.
 
